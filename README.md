@@ -6,7 +6,7 @@ This code was written by 3 Students including myself at Worcester Polytechnic In
 
 The matlab code was written to control this Robot:
 
-![Image of 3 DOF robot](![Image description](link-to-image))
+![Image of 3 DOF robot](https://i.imgur.com/cyqJnTx.jpg)
 
 Included are scripts for the forward, inverse, and velocity kinematics w Trajectory planning for this robot. 
 
